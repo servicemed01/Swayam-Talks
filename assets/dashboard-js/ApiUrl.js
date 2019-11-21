@@ -1,54 +1,54 @@
 
-var LOGIN="/swayamtalk/Dashboard/Admin";
+var LOGIN="/Swayam-Talks/Dashboard/Admin";
 
 // HOME PATH
-var HOME="/swayamtalk/Dashboard/Admin/Home";
+var HOME="/Swayam-Talks/Dashboard/Admin/Home";
 
 //VIDEO PATH
-var VIDEO="/swayamtalk/Dashboard/Admin/Videos";
+var VIDEO="/Swayam-Talks/Dashboard/Admin/Videos";
 
 //SHOW VIDEOS
-var SHOWVIDEOS="/swayamtalk/Dashboard/Admin/ShowVideos";
+var SHOWVIDEOS="/Swayam-Talks/Dashboard/Admin/ShowVideos";
 
 //EVENTS PATH
-var EVENTS="/swayamtalk/Dashboard/Admin/Events";
+var EVENTS="/Swayam-Talks/Dashboard/Admin/Events";
 
 //SHOWEVENTS PATH
-var SHOWEVENTS="/swayamtalk/Dashboard/Admin/ShowEvents";
+var SHOWEVENTS="/Swayam-Talks/Dashboard/Admin/ShowEvents";
 
 //IMPACT PATH
-var IMPACT="/swayamtalk/Dashboard/Admin/Impact";
+var IMPACT="/Swayam-Talks/Dashboard/Admin/Impact";
 
 //SHOWIMPACT PATH
-var SHOWIMPACTS="/swayamtalk/Dashboard/Admin/ShowImpacts";
+var SHOWIMPACTS="/Swayam-Talks/Dashboard/Admin/ShowImpacts";
 
 //BLOG PATH
-var BLOG="/swayamtalk/Dashboard/Admin/Blog";
+var BLOG="/Swayam-Talks/Dashboard/Admin/Blog";
 
 //SHOWBLOGS PATH
-var SHOWBLOGS="/swayamtalk/Dashboard/Admin/ShowBlogs";
+var SHOWBLOGS="/Swayam-Talks/Dashboard/Admin/ShowBlogs";
 
 
 //SPEAKERS PATH
-var SPEAKERS="/swayamtalk/Dashboard/Admin/Speakers";
+var SPEAKERS="/Swayam-Talks/Dashboard/Admin/Speakers";
 
 //SHOWSPEAKERS PATH
-var SHOWSPEAKERS="/swayamtalk/Dashboard/Admin/ShowSpeakers";
+var SHOWSPEAKERS="/Swayam-Talks/Dashboard/Admin/ShowSpeakers";
 
 //SHOWFAQ PATH
-var SHOWFAQ="/swayamtalk/Dashboard/Admin/ShowFaq";
+var SHOWFAQ="/Swayam-Talks/Dashboard/Admin/ShowFaq";
 
 //SHOWSPONSER PATH
-var SHOWSPONSER="/swayamtalk/Dashboard/Admin/ShowSponsor";
+var SHOWSPONSER="/Swayam-Talks/Dashboard/Admin/ShowSponsor";
 
 //SHOWGALLERY PATH
-var SHOWGALLERY="/swayamtalk/Dashboard/Admin/ShowGallery";
+var SHOWGALLERY="/Swayam-Talks/Dashboard/Admin/ShowGallery";
 
 //CATEGORY PATH
-var CATEGORY = "/swayamtalk/Dashboard/Admin/Category";
+var CATEGORY = "/Swayam-Talks/Dashboard/Admin/Category";
 
 //LOCATION PATH
-var LOCATION = "/swayamtalk/Dashboard/Admin/Location";
+var LOCATION = "/Swayam-Talks/Dashboard/Admin/Location";
 
 //SPONSER PATH
-var SPONSER = "/swayamtalk/Dashboard/Admin/Sponsor";
+var SPONSER = "/Swayam-Talks/Dashboard/Admin/Sponsor";

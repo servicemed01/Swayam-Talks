@@ -1,62 +1,62 @@
 
 
-var DOMAIN="http://localhost/";
+var DOMAIN="http://localhost/Swayam-Talks";
 
 /* Login Api */
-var LOGINAPI=DOMAIN+"swayamtalk/Api/Login/Login";
+var LOGINAPI=DOMAIN+"/Api/Login/Login";
 
 /* DISPLAY API */
 
 // SELECT CATEGORY
-var SELECTCATEGORYAPI=DOMAIN+"swayamtalk/Api/Category/SelectCategory";
+var SELECTCATEGORYAPI=DOMAIN+"/Api/Category/SelectCategory";
 
 // SELECT LOCATION 
-var SELECTLOCATIONAPI=DOMAIN+"swayamtalk/Api/Location/SelectLocation";
+var SELECTLOCATIONAPI=DOMAIN+"/Api/Location/SelectLocation";
 
 // SELECT SPEAKER
-var SELECTSPEAKERAPI=DOMAIN+"swayamtalk/Api/Speaker/SelectSpeaker";
+var SELECTSPEAKERAPI=DOMAIN+"/Api/Speaker/SelectSpeaker";
 
 // SELECT VIDEO
-var SELECTVIDEOAPI=DOMAIN+"swayamtalk/Api/Video/SelectVideo";
+var SELECTVIDEOAPI=DOMAIN+"/Api/Video/SelectVideo";
 
 // SELECT STORY
-var SELECTSTORYAPI=DOMAIN+"swayamtalk/Api/Video/StoriesVideo";
+var SELECTSTORYAPI=DOMAIN+"/Api/Video/StoriesVideo";
 
 // SELECT TALKS
-var SELECTTALKSAPI=DOMAIN+"swayamtalk/Api/Video/TalksVideo";
+var SELECTTALKSAPI=DOMAIN+"/Api/Video/TalksVideo";
 
 // SELECT USERS
-var SELECTUSERSAPI=DOMAIN+"swayamtalk/Api/User/SelectUser";
+var SELECTUSERSAPI=DOMAIN+"/Api/User/SelectUser";
 
 // SELECT EVENT
-var SELECTEVENTAPI=DOMAIN+"swayamtalk/Api/Event/SelectEvent";
+var SELECTEVENTAPI=DOMAIN+"/Api/Event/SelectEvent";
 
 // SELECT FEEDBACK
-var SELECTFEEDBACKAPI=DOMAIN+"swayamtalk/Api/Feedback/SelectFeedback";	
+var SELECTFEEDBACKAPI=DOMAIN+"/Api/Feedback/SelectFeedback";	
 
 // SELECT FAQ
-var SELECTFAQAPI=DOMAIN+"swayamtalk/Api/Faq/SelectFaq";	
+var SELECTFAQAPI=DOMAIN+"/Api/Faq/SelectFaq";	
 
 // SELECT BANNER
-var SELECTBANNERAPI=DOMAIN+"swayamtalk/Api/Banner/SelectBanner";
+var SELECTBANNERAPI=DOMAIN+"/Api/Banner/SelectBanner";
 
 // SELECT SPONSER
-var SELECTSPONSERAPI=DOMAIN+"swayamtalk/Api/Sponser/SelectSponser";
+var SELECTSPONSERAPI=DOMAIN+"/Api/Sponser/SelectSponser";
 
 // SELECT CONTACT
-var SELECTCONTACTAPI=DOMAIN+"swayamtalk/Api/Contact/SelectContact";
+var SELECTCONTACTAPI=DOMAIN+"/Api/Contact/SelectContact";
 
 // SELECT GALLERY
-var SELECTGALLERYAPI=DOMAIN+"swayamtalk/Api/SwayamGallery/SelectSwayamGallery";
+var SELECTGALLERYAPI=DOMAIN+"/Api/SwayamGallery/SelectSwayamGallery";
 
 // SELECT MostVisitedCategory
-var SELECTMOSTVISITEDCATEGORYAPI=DOMAIN+"swayamtalk/Api/Video/MostVisited";
+var SELECTMOSTVISITEDCATEGORYAPI=DOMAIN+"/Api/Video/MostVisited";
 
 // SELECT IMPACT
-var SELECTIMPACTAPI=DOMAIN+"swayamtalk/Api/Impact/SelectImpact";
+var SELECTIMPACTAPI=DOMAIN+"/Api/Impact/SelectImpact";
 
 // SELECT BLOG
-var SELECTBLOGAPI=DOMAIN+"swayamtalk/Api/Blogs/SelectBlogs";
+var SELECTBLOGAPI=DOMAIN+"/Api/Blogs/SelectBlogs";
 
 
 //SHOW SPONSER 
@@ -75,124 +75,124 @@ var SELECTBLOGAPI=DOMAIN+"swayamtalk/Api/Blogs/SelectBlogs";
 /* INSERT API */
 
 // INSERT CATEGORY
-var INSERTCATEGORYAPI=DOMAIN+"swayamtalk/Api/Category/AddCategory";
+var INSERTCATEGORYAPI=DOMAIN+"/Api/Category/AddCategory";
 
 // INSERT LOCATION 
-var INSERTLOCATIONAPI=DOMAIN+"swayamtalk/Api/Location/AddLocation";
+var INSERTLOCATIONAPI=DOMAIN+"/Api/Location/AddLocation";
 
 // INSERT SPEAKER
-var INSERTSPEAKERAPI=DOMAIN+"swayamtalk/Api/Speaker/AddSpeaker";
+var INSERTSPEAKERAPI=DOMAIN+"/Api/Speaker/AddSpeaker";
 
 // INSERT VIDEO
-var INSERTVIDEOAPI=DOMAIN+"swayamtalk/Api/Video/AddVideo";
+var INSERTVIDEOAPI=DOMAIN+"/Api/Video/AddVideo";
 
 // INSERT USERS
-var INSERTUSERSAPI=DOMAIN+"swayamtalk/Api/User/AddUser";
+var INSERTUSERSAPI=DOMAIN+"/Api/User/AddUser";
 
 // INSERT EVENT
-var INSERTEVENTAPI=DOMAIN+"swayamtalk/Api/Event/AddEvent";
+var INSERTEVENTAPI=DOMAIN+"/Api/Event/AddEvent";
 
 // INSERT FEEDBACK
-var INSERTFEEDBACKAPI=DOMAIN+"swayamtalk/Api/Feedback/AddFeedback";	
+var INSERTFEEDBACKAPI=DOMAIN+"/Api/Feedback/AddFeedback";	
 
 // INSERT FAQ
-var INSERTFAQAPI=DOMAIN+"swayamtalk/Api/Faq/AddFaq";	
+var INSERTFAQAPI=DOMAIN+"/Api/Faq/AddFaq";	
 
 // INSERT BANNER
-var INSERTBANNERAPI=DOMAIN+"swayamtalk/Api/Banner/AddBanner";
+var INSERTBANNERAPI=DOMAIN+"/Api/Banner/AddBanner";
 
 // INSERT SPONSER
-var INSERTSPONSERAPI=DOMAIN+"swayamtalk/Api/Sponser/AddSponser";
+var INSERTSPONSERAPI=DOMAIN+"/Api/Sponser/AddSponser";
 
 // INSERT CONTACT
-var INSERTCONTACTAPI=DOMAIN+"swayamtalk/Api/Contact/AddContact";
+var INSERTCONTACTAPI=DOMAIN+"/Api/Contact/AddContact";
 
 // INSERT GALLERY
-var INSERTGALLERYAPI=DOMAIN+"swayamtalk/Api/SwayamGallery/AddSwayamGallery";
+var INSERTGALLERYAPI=DOMAIN+"/Api/SwayamGallery/AddSwayamGallery";
 
 // INSERT IMPACT
-var INSERTIMPACTAPI=DOMAIN+"swayamtalk/Api/Impact/AddImpact";
+var INSERTIMPACTAPI=DOMAIN+"/Api/Impact/AddImpact";
 
 // INSERT BLOG
-var INSERTBLOGAPI=DOMAIN+"swayamtalk/Api/Blogs/AddBlogs";
+var INSERTBLOGAPI=DOMAIN+"/Api/Blogs/AddBlogs";
 
 
 /* DELETE API */
 
 // DELETE CATEGORY
-var DELETECATEGORYAPI=DOMAIN+"swayamtalk/Api/Category/DeleteCategory";
+var DELETECATEGORYAPI=DOMAIN+"/Api/Category/DeleteCategory";
 
 // DELETE LOCATION 
-var DELETELOCATIONAPI=DOMAIN+"swayamtalk/Api/Location/DeleteLocation";
+var DELETELOCATIONAPI=DOMAIN+"/Api/Location/DeleteLocation";
 
 // DELETE SPEAKER
-var DELETESPEAKERAPI=DOMAIN+"swayamtalk/Api/Speaker/DeleteSpeaker";
+var DELETESPEAKERAPI=DOMAIN+"/Api/Speaker/DeleteSpeaker";
 
 // DELETE VIDEO
-var DELETEVIDEOAPI=DOMAIN+"swayamtalk/Api/Video/DeleteVideo";
+var DELETEVIDEOAPI=DOMAIN+"/Api/Video/DeleteVideo";
 
 // DELETE USERS
-var DELETEUSERSAPI=DOMAIN+"swayamtalk/Api/User/DeleteUser";
+var DELETEUSERSAPI=DOMAIN+"/Api/User/DeleteUser";
 
 // DELETE EVENT
-var DELETEEVENTAPI=DOMAIN+"swayamtalk/Api/Event/DeleteEvent";
+var DELETEEVENTAPI=DOMAIN+"/Api/Event/DeleteEvent";
 
 // DELETE FEEDBACK
-var DELETEFEEDBACKAPI=DOMAIN+"swayamtalk/Api/Feedback/DeleteFeedback";	
+var DELETEFEEDBACKAPI=DOMAIN+"/Api/Feedback/DeleteFeedback";	
 
 // DELETE FAQ
-var DELETEFAQAPI=DOMAIN+"swayamtalk/Api/Faq/DeleteFaq";	
+var DELETEFAQAPI=DOMAIN+"/Api/Faq/DeleteFaq";	
 
 // DELETE BANNER
-var DELETEBANNERAPI=DOMAIN+"swayamtalk/Api/Banner/DeleteBanner";
+var DELETEBANNERAPI=DOMAIN+"/Api/Banner/DeleteBanner";
 
 // DELETE SPONSER
-var DELETESPONSERAPI=DOMAIN+"swayamtalk/Api/Sponser/DeleteSponser";
+var DELETESPONSERAPI=DOMAIN+"/Api/Sponser/DeleteSponser";
 
 // DELETE CONTACT
-var DELETECONTACTAPI=DOMAIN+"swayamtalk/Api/Contact/DeleteContact";
+var DELETECONTACTAPI=DOMAIN+"/Api/Contact/DeleteContact";
 
 // DELETE GALLERY TITLE
-var DELETEGALLERYTITLEAPI=DOMAIN+"swayamtalk/Api/SwayamGallery/DeleteSwayamGalleryTitle";
+var DELETEGALLERYTITLEAPI=DOMAIN+"/Api/SwayamGallery/DeleteSwayamGalleryTitle";
 
 // DELETE GALLERY IMAGES
-var DELETEGALLERYIMAGESAPI=DOMAIN+"swayamtalk/Api/SwayamGallery/DeleteSwayamGalleryImages";
+var DELETEGALLERYIMAGESAPI=DOMAIN+"/Api/SwayamGallery/DeleteSwayamGalleryImages";
 
 // DELETE IMPACT
-var DELETEIMPACTAPI=DOMAIN+"swayamtalk/Api/Impact/DeleteImpact";
+var DELETEIMPACTAPI=DOMAIN+"/Api/Impact/DeleteImpact";
 
 // DELETE BLOG
-var DELETEBLOGAPI=DOMAIN+"swayamtalk/Api/Blogs/DeleteBlogs";
+var DELETEBLOGAPI=DOMAIN+"/Api/Blogs/DeleteBlogs";
 
 
 /* EDIT API */
 
 // UPDATE VIDEO
-var UPDATEVIDEOAPI=DOMAIN+"swayamtalk/Api/Video/UpdateVideo";
+var UPDATEVIDEOAPI=DOMAIN+"/Api/Video/UpdateVideo";
 
 // UPDATE SPEAKER
-var UPDATESPEAKERAPI=DOMAIN+"swayamtalk/Api/Speaker/UpdateSpeaker";
+var UPDATESPEAKERAPI=DOMAIN+"/Api/Speaker/UpdateSpeaker";
 
 // UPDATE USERS
-var UPDATEUSERSAPI=DOMAIN+"swayamtalk/Api/User/UpdateUser";
+var UPDATEUSERSAPI=DOMAIN+"/Api/User/UpdateUser";
 
 // UPDATE EVENT
-var UPDATEEVENTAPI=DOMAIN+"swayamtalk/Api/Event/UpdateEvent";
+var UPDATEEVENTAPI=DOMAIN+"/Api/Event/UpdateEvent";
 
 // UPDATE IMPACT
-var UPDATEIMPACTAPI=DOMAIN+"swayamtalk/Api/Impact/UpdateImpact";
+var UPDATEIMPACTAPI=DOMAIN+"/Api/Impact/UpdateImpact";
 
 // UPDATE BLOG
-var UPDATEBLOGAPI=DOMAIN+"swayamtalk/Api/Blogs/UpdateBlogs";
+var UPDATEBLOGAPI=DOMAIN+"/Api/Blogs/UpdateBlogs";
 
 // UPDATE CATEGORY
-var UPDATECATEGORYAPI=DOMAIN+"swayamtalk/Api/Category/UpdateCategory";
+var UPDATECATEGORYAPI=DOMAIN+"/Api/Category/UpdateCategory";
 
 // UPDATE LOCATION
-var UPDATELOCATIONAPI=DOMAIN+"swayamtalk/Api/Location/UpdateLocation";
+var UPDATELOCATIONAPI=DOMAIN+"/Api/Location/UpdateLocation";
 
 // UPDATE SPONSER
-var UPDATESPONSERAPI=DOMAIN+"swayamtalk/Api/Sponser/UpdateSponser";
+var UPDATESPONSERAPI=DOMAIN+"/Api/Sponser/UpdateSponser";
 
 
 
